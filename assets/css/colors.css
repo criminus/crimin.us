@@ -1,0 +1,38 @@
+/*
+    Colors file
+    -----------
+*/
+
+body {
+    background-color: var(--white);
+}
+
+#footer {
+    color: var(--dark-gray);
+}
+
+.main_nav-nav {
+    border-bottom: 1px solid var(--light-gray);
+}
+
+.main_nav-link {
+    color: var(--black);
+}
+
+.main_nav-link.isActive::after {
+    background-color: var(--dark-text);
+}
+
+.page-tools-link {
+    color: var(--black);
+}
+
+.page-tools-link:last-of-type {
+    color: var(--white);
+    background-color: var(--accent-pink);
+    border: 1px solid var(--accent-pink);
+}
+
+.welcome {
+    background-color: var(--white);
+}

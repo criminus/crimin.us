@@ -1,0 +1,20 @@
+/*
+    Root
+    ----
+*/
+
+:root {
+    --font-main: "SF Pro Display", -apple-system, BlinkMacSystemFont, "Helvetica", sans-serif;
+    --black: #000000;
+    --white: #ffffff;
+    --gray: #333333;
+    --dark-gray: #3f3f3f;
+    --light-gray: #dfdfdf;
+    --lighter-gray: #fafafa;
+    --dark-text: #0f0f0f;
+    --light-text: #f5f5f7;
+    --accent-blue: #026fc9;
+    --accent-blue--hover: #358cd4;
+    --accent-pink: #ff4169;
+    --accent-ml: #ffcc00;
+}
